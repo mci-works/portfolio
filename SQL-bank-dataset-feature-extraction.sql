@@ -1,4 +1,5 @@
--- Create a feature table for training machine learning models by enriching customer data with various indicators calculated from their transactions and owned accounts. The final table will be related to the customer ID and will contain both quantitative and qualitative information.
+-- Create a feature table for training machine learning models by enriching customer data with various indicators calculated from their transactions 
+-- and owned accounts. The final table will be related to the customer ID and will contain both quantitative and qualitative information.
 
 
 -- Index
